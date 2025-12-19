@@ -4,6 +4,7 @@
 * bullet list 1
 * bullet list 2
 * bullet list 3
+* bullet new list 1
 
 1. number list 1
 2. number list 2
